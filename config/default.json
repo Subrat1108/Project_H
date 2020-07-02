@@ -1,0 +1,6 @@
+{
+  "mongoUri": "mongodb+srv://subrat1108:subrat1108@cluster0-hn2ke.mongodb.net/ProjectH?retryWrites=true&w=majority",
+  "jwtSecret": "Euphoria_X",
+  "git_clientId": "2f1022eb65c750f3c2ed",
+  "git_clientSecret": "a8a77c1180dc72d28c3bfca36137daf14ccf649c"
+}
